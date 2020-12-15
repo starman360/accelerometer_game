@@ -1,0 +1,6 @@
+mygyro.c:14:6:init_gyro	16	static
+mygyro.c:27:6:update_gyro	40	static
+mygyro.c:38:6:get_measurement	16	static
+mygyro.c:50:6:print_measurement	104	static
+mygyro.c:56:6:print_dmeasurement	104	static
+mygyro.c:62:5:calibrate_gyro	56	static

@@ -1,0 +1,11 @@
+game.c:18:6:display_board	24	static
+game.c:32:6:clear_board	16	static
+game.c:39:6:update_board	24	static
+game.c:70:6:move_ball	24	static
+game.c:88:6:init_ball	24	static
+game.c:95:6:init_goal	16	static
+game.c:100:6:random_goal	24	static
+game.c:109:5:game_check	16	static
+game.c:127:6:set_score	16	static
+game.c:131:6:print_info	16	static
+game.c:143:6:init_game	24	static
